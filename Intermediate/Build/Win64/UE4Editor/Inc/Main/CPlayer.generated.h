@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MAIN_CPlayer_generated_h
 
-#define Parkour_Source_Main_CPlayer_CPlayer_h_10_SPARSE_DATA
-#define Parkour_Source_Main_CPlayer_CPlayer_h_10_RPC_WRAPPERS
-#define Parkour_Source_Main_CPlayer_CPlayer_h_10_RPC_WRAPPERS_NO_PURE_DECLS
-#define Parkour_Source_Main_CPlayer_CPlayer_h_10_INCLASS_NO_PURE_DECLS \
+#define Main_Source_Main_CPlayer_CPlayer_h_10_SPARSE_DATA
+#define Main_Source_Main_CPlayer_CPlayer_h_10_RPC_WRAPPERS
+#define Main_Source_Main_CPlayer_CPlayer_h_10_RPC_WRAPPERS_NO_PURE_DECLS
+#define Main_Source_Main_CPlayer_CPlayer_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACPlayer(); \
 	friend struct Z_Construct_UClass_ACPlayer_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(ACPlayer)
 
 
-#define Parkour_Source_Main_CPlayer_CPlayer_h_10_INCLASS \
+#define Main_Source_Main_CPlayer_CPlayer_h_10_INCLASS \
 private: \
 	static void StaticRegisterNativesACPlayer(); \
 	friend struct Z_Construct_UClass_ACPlayer_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(ACPlayer)
 
 
-#define Parkour_Source_Main_CPlayer_CPlayer_h_10_STANDARD_CONSTRUCTORS \
+#define Main_Source_Main_CPlayer_CPlayer_h_10_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ACPlayer(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ACPlayer) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define Parkour_Source_Main_CPlayer_CPlayer_h_10_ENHANCED_CONSTRUCTORS \
+#define Main_Source_Main_CPlayer_CPlayer_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ACPlayer(ACPlayer&&); \
@@ -58,32 +58,32 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ACPlayer)
 
 
-#define Parkour_Source_Main_CPlayer_CPlayer_h_10_PRIVATE_PROPERTY_OFFSET \
+#define Main_Source_Main_CPlayer_CPlayer_h_10_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__SpringArm() { return STRUCT_OFFSET(ACPlayer, SpringArm); } \
 	FORCEINLINE static uint32 __PPO__Camera() { return STRUCT_OFFSET(ACPlayer, Camera); }
 
 
-#define Parkour_Source_Main_CPlayer_CPlayer_h_7_PROLOG
-#define Parkour_Source_Main_CPlayer_CPlayer_h_10_GENERATED_BODY_LEGACY \
+#define Main_Source_Main_CPlayer_CPlayer_h_7_PROLOG
+#define Main_Source_Main_CPlayer_CPlayer_h_10_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Parkour_Source_Main_CPlayer_CPlayer_h_10_PRIVATE_PROPERTY_OFFSET \
-	Parkour_Source_Main_CPlayer_CPlayer_h_10_SPARSE_DATA \
-	Parkour_Source_Main_CPlayer_CPlayer_h_10_RPC_WRAPPERS \
-	Parkour_Source_Main_CPlayer_CPlayer_h_10_INCLASS \
-	Parkour_Source_Main_CPlayer_CPlayer_h_10_STANDARD_CONSTRUCTORS \
+	Main_Source_Main_CPlayer_CPlayer_h_10_PRIVATE_PROPERTY_OFFSET \
+	Main_Source_Main_CPlayer_CPlayer_h_10_SPARSE_DATA \
+	Main_Source_Main_CPlayer_CPlayer_h_10_RPC_WRAPPERS \
+	Main_Source_Main_CPlayer_CPlayer_h_10_INCLASS \
+	Main_Source_Main_CPlayer_CPlayer_h_10_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Parkour_Source_Main_CPlayer_CPlayer_h_10_GENERATED_BODY \
+#define Main_Source_Main_CPlayer_CPlayer_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Parkour_Source_Main_CPlayer_CPlayer_h_10_PRIVATE_PROPERTY_OFFSET \
-	Parkour_Source_Main_CPlayer_CPlayer_h_10_SPARSE_DATA \
-	Parkour_Source_Main_CPlayer_CPlayer_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
-	Parkour_Source_Main_CPlayer_CPlayer_h_10_INCLASS_NO_PURE_DECLS \
-	Parkour_Source_Main_CPlayer_CPlayer_h_10_ENHANCED_CONSTRUCTORS \
+	Main_Source_Main_CPlayer_CPlayer_h_10_PRIVATE_PROPERTY_OFFSET \
+	Main_Source_Main_CPlayer_CPlayer_h_10_SPARSE_DATA \
+	Main_Source_Main_CPlayer_CPlayer_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	Main_Source_Main_CPlayer_CPlayer_h_10_INCLASS_NO_PURE_DECLS \
+	Main_Source_Main_CPlayer_CPlayer_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -91,7 +91,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> MAIN_API UClass* StaticClass<class ACPlayer>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Parkour_Source_Main_CPlayer_CPlayer_h
+#define CURRENT_FILE_ID Main_Source_Main_CPlayer_CPlayer_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

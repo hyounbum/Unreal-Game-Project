@@ -260,11 +260,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/I C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\MainEditor\Development\Engine
-/Yc"C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
-/Fo"C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/I D:\git\Main\Intermediate\Build\Win64\MainEditor\Development\Engine
+/Yc"D:\git\Main\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\git\Main\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\git\Main\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
+/Fo"D:\git\Main\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 /TP
 /GR-
 /W4
