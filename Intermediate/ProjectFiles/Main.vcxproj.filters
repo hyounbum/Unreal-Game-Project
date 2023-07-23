@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Main.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0AAC14B5-F100-4F63-A3AD-91F743A0A773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Main.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MainEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5CA6D85F-A7EC-43FD-851F-3401F1085C36}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Main">
+      <UniqueIdentifier>{0A471529-3170-477B-9E02-48BAC9D842BD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Main\Global.h">
+      <Filter>Source\Main</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Main\Main.Build.cs">
+      <Filter>Source\Main</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Main\Main.cpp">
+      <Filter>Source\Main</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Main\Main.h">
+      <Filter>Source\Main</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Main\MainGameModeBase.cpp">
+      <Filter>Source\Main</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Main\MainGameModeBase.h">
+      <Filter>Source\Main</Filter>
+    </ClInclude>
+    <Filter Include="Source\Main\CPlayer">
+      <UniqueIdentifier>{2EE0A7D0-95C6-411D-BFAB-8B79CB45F1E2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Main\CPlayer\CAnimInstance.cpp">
+      <Filter>Source\Main\CPlayer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Main\CPlayer\CAnimInstance.h">
+      <Filter>Source\Main\CPlayer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Main\CPlayer\CPlayer.cpp">
+      <Filter>Source\Main\CPlayer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Main\CPlayer\CPlayer.h">
+      <Filter>Source\Main\CPlayer</Filter>
+    </ClInclude>
+    <Filter Include="Source\Main\Utilities">
+      <UniqueIdentifier>{0741470B-1968-4361-B24A-F12CA4AB6B55}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Main\Utilities\CHelpers.h">
+      <Filter>Source\Main\Utilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Main\Utilities\CLog.cpp">
+      <Filter>Source\Main\Utilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Main\Utilities\CLog.h">
+      <Filter>Source\Main\Utilities</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

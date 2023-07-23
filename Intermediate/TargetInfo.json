@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Main",
+			"Path": "C:\\Users\\user\\Desktop\\Unreal_Assets\\Parkour\\Source\\Main.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MainEditor",
+			"Path": "C:\\Users\\user\\Desktop\\Unreal_Assets\\Parkour\\Source\\MainEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
