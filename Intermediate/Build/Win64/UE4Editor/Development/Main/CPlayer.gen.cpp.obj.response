@@ -231,9 +231,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\UE4Editor\Inc\Main
-/I C:\Users\user\Desktop\Unreal_Assets\Parkour\Source
-/I C:\Users\user\Desktop\Unreal_Assets\Parkour\Source\Main
+/I D:\git\Main\Intermediate\Build\Win64\UE4Editor\Inc\Main
+/I D:\git\Main\Source
+/I D:\git\Main\Source\Main
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -263,12 +263,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\UE4Editor\Inc\Main\CPlayer.gen.cpp"
-/FI"C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\UE4Editor\Development\Main\Definitions.Main.h"
-/Fo"C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\UE4Editor\Development\Main\CPlayer.gen.cpp.obj"
+/FI"D:\git\Main\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\git\Main\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\git\Main\Intermediate\Build\Win64\MainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\git\Main\Intermediate\Build\Win64\UE4Editor\Inc\Main\CPlayer.gen.cpp"
+/FI"D:\git\Main\Intermediate\Build\Win64\UE4Editor\Development\Main\Definitions.Main.h"
+/Fo"D:\git\Main\Intermediate\Build\Win64\UE4Editor\Development\Main\CPlayer.gen.cpp.obj"
 /TP
 /GR-
 /W4

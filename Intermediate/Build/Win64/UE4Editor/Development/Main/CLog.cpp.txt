@@ -1,2 +1,2 @@
-C:\Users\user\Desktop\Unreal_Assets\Parkour\Intermediate\Build\Win64\UE4Editor\Development\Main\Definitions.Main.h
-C:\Users\user\Desktop\Unreal_Assets\Parkour\Source\Main\Utilities\CLog.h
+D:\git\Main\Intermediate\Build\Win64\UE4Editor\Development\Main\Definitions.Main.h
+D:\git\Main\Source\Main\Utilities\CLog.h
